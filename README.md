@@ -1,1 +1,1 @@
-https://github.com/ChristinaKarlovich/rsschool-cv/blob/gh-pages/cv
+https://https://christinakarlovich.github.io/rsschool-cv/cv
